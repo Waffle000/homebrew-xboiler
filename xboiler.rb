@@ -1,8 +1,8 @@
 class Xboiler < Formula
   desc "Xboiler - Generate SwiftUI boilerplate from YAML"
   homepage "https://github.com/Waffle000/Xboiler"
-  url "https://github.com/Waffle000/Xboiler/archive/refs/tags/v0.1.0-beta.2.tar.gz"
-  sha256 "8e753f2941b92ccc34f11e4eecb98218d8f299b3d2ffd0630063aea9dcc52d2e"
+  url "https://github.com/Waffle000/Xboiler/archive/refs/tags/v1.0.0-beta.tar.gz"
+  sha256 "124ea2f1f00214d5cedcccc34d4bae1f2b0308f28cfebe55cacaca7025953f02"
   license "MIT"
 
   def install
